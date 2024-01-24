@@ -1,12 +1,12 @@
-.filter{
-    height: 3.012rem;
-    width: 3.012rem;
-    background-color: white;
-    position: absolute;
-    top: 4rem;
-    right: 11.35rem;
-    border-radius: 20.32px;
-    box-shadow: 6px 6px 7px #00000025;
-    padding: 7.5px;
-    padding-top: 10px;
+.filter {
+  height: 3.012rem;
+  width: 3.012rem;
+  background-color: white;
+  position: absolute;
+  top: 4rem;
+  right: 11.35rem;
+  border-radius: 20.32px;
+  box-shadow: 6px 6px 7px #00000025;
+  padding: 7.5px;
+  padding-top: 10px;
 }
