@@ -7,8 +7,6 @@ const SearchBar = () => {
     <div>
         <input className={styles.searchBar} type="text" placeholder="Search Scholarship..."/>
         <SearchIcon/>
-        
-          
     </div>
   )
 }
