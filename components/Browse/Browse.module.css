@@ -1,0 +1,17 @@
+.callOut{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+    color: #000000;
+    position: absolute;
+    top: 1150px;
+    right: 10rem;
+}
+
+.bg{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 1200px;
+    z-index: -1;
+}

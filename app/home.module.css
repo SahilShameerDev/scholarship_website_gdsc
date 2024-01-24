@@ -2,3 +2,9 @@
   width: 100%;
   z-index: -1;
 }
+
+.plane{
+  position: absolute;
+  top: 650px;
+  z-index: -1;
+}

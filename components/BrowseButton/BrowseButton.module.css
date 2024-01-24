@@ -1,0 +1,24 @@
+.browseBtn{
+    position: absolute;
+    top: 1300px;
+    right: 27.5rem;
+    background-color: #4286F5;
+    height: 3.375rem;
+    width: 14.625rem;
+    border-radius: 22px;
+    padding: 13px;
+    color: #FFFFFF;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+}
+.browseBtn:hover{
+
+    background-color: #669ffa;
+  
+}
+
+.browse{
+    float: left;
+    padding-right: 8px;
+}

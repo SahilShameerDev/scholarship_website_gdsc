@@ -2,9 +2,11 @@ import Image from "next/image";
 import style from "./home.module.css";
 import NavBar from "@/components/NavBar/NavBar";
 import Gdsc from "@/components/GDSC/Gdsc";
+import Browse from "@/components/Browse/Browse";
 
 const imageStyle = {
-  zIndex: -2,
+  zIndex: -1,
+
 };
 
 export default function Home() {
@@ -13,6 +15,8 @@ export default function Home() {
       <img src="/hero.png" alt="" className={style.hero} />
       <NavBar />
       <Gdsc/>
+      <Image src='/plane.png' alt="" width={631} height={245} className={style.plane}/>
+      <Browse/>
     </div>
   );
 }
