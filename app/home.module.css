@@ -1,4 +1,4 @@
-.page {
+.hero {
   width: 100%;
-  background-image: url("hero.png");
+  z-index: -1;
 }
