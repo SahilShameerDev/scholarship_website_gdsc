@@ -4,10 +4,6 @@ import NavBar from "@/components/NavBar/NavBar";
 import Gdsc from "@/components/GDSC/Gdsc";
 import Browse from "@/components/Browse/Browse";
 
-const imageStyle = {
-  zIndex: -1,
-
-};
 
 export default function Home() {
   return (

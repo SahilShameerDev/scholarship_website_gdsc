@@ -10,3 +10,7 @@
   padding: 7.5px;
   padding-top: 10px;
 }
+
+.filter:hover{
+  background-color: rgb(250, 250, 250);
+}

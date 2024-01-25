@@ -1,0 +1,20 @@
+.homeBtn{
+    width: 84px;
+    height: 84px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    position: relative;
+    top: 20px;
+    left: 1.5rem;
+    box-shadow: 8px 6px 20px 0 rgba(0, 0, 0, 0.2), -8px -6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    
+}
+.homeIcon{
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
