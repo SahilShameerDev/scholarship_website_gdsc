@@ -10,8 +10,8 @@ const page = () => {
       <div className={style.bg}></div>
         <Header/>
         <Home/>
-        <ScholarSections/>
-        <ScholarSections/>
+        <ScholarSections title="Open Now"/>
+        <ScholarSections title="Upcoming"/>
     </div>
   )
 }
