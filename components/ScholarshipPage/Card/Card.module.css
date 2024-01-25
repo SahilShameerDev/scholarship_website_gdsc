@@ -1,0 +1,25 @@
+.panel{
+    width: 261px;
+    height: 328px;
+    background-color: white;
+    box-shadow: 4px 2px 18px 0 rgba(0, 0, 0, 0.2), -4px -2px 12px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
+    top: 50px;
+    left: 9rem;
+    border-radius: 16px;
+    text-align: left;
+    padding: 20px;
+    float: left;
+    margin-left: 30px;
+}
+
+.button{
+    width: 261px;
+    height: 47px;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    background-color: blue;
+    border-radius: 0 0 16px 16px;
+
+}
