@@ -6,8 +6,15 @@ import Card from '../Card/Card'
 const AllScholarShips = () => {
   return (
     <div>
-        <h1 className={styles.tilte}>All Scholarships</h1>
+        <h1 className={styles.title}>All Scholarships</h1>
         <div className={styles.cards}>
+            <Card/>
+            <Card/>
+            <Card/>
+            <Card/>
+            <Card/>
+            <Card/>
+            <Card/>
             <Card/>
             <Card/>
             <Card/>

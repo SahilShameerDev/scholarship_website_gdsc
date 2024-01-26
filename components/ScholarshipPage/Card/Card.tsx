@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import styles from "./Card.module.css";
 import Modal from "react-modal";
+import PopUpModal from "../PopUpModal/PopUpModal";
 
 const Cards = () => {
   const [modalIsOpen, setModalIsOpen] = useState(false);
@@ -31,8 +32,10 @@ const Cards = () => {
       isOpen={modalIsOpen}
       onRequestClose={closeModal}
       contentLabel="Scholarship Details"
+      style={{ content: { overflowY: 'auto', maxHeight: '95vh' } }}
+      className={styles.popUp}
       >
-        <h1>Hello</h1>
+        <PopUpModal/>
       </Modal>
     </div>
   );

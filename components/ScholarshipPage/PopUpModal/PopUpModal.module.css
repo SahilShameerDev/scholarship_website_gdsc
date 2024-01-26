@@ -1,0 +1,6 @@
+.eligible{
+    list-style-type: disc; /* Change bullet type to disc */
+  color: black; /* Change bullet color to blue */
+  margin-left: 20px; /* Add indentation */
+  line-height: 1.5; /* Adjust line spacing */
+}

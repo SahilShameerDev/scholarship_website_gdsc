@@ -1,13 +1,19 @@
-.title{
+.container {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: left; /* Vertically center elements */
+  }
+  
+  .title {
     text-decoration: underline;
-    position: relative;
-    top: 50px;
-    left: 9.5rem;
     font-size: 32px;
     font-weight: 700;
     line-height: 41px;
-}
-
+    margin-top: 5px; /* Adjust as needed */
+    margin-left: 170px;
+  }
+  
 .cards{
     display: flex;
     padding: 20px;
@@ -16,7 +22,7 @@
 }
 .button{
     position: relative;
-    top: 18px;
+    top: -20px;
     left: 70rem;
     width: 45px;
     height: 45px;
