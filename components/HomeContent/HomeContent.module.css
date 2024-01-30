@@ -1,0 +1,30 @@
+.mainhead{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 20px;
+    color: #5F6267;
+    position: absolute;
+    top: 50%;
+    left:10rem ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.subhead{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    color: #5F6267;
+    position: absolute;
+    top: 60%;
+    left:10rem; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.subhead2{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    color: #5F6267;
+    position: absolute;
+    top: 65%;
+    left:10rem; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
