@@ -16,8 +16,8 @@ const Cards = () => {
   return (
     <div>
       <div className={styles.panel}>
-        <h1 className={styles.title}>Title</h1>
-        <p className={styles.date}>last updated on 1998</p>
+        <h1 className={styles.title}>JN Tata Endowment Loan Scholarship 2024-25</h1>
+        <p className={styles.date}>January 29th</p>
         <h2 className={styles.eligiblityTitle}>Eligiblity</h2>
         <p className={styles.eligiblity}>
           For students across India for higher studies abroad

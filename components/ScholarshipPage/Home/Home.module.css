@@ -1,12 +1,12 @@
 .homeBtn{
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     background-color: #FFFFFF;
     position: relative;
-    top: 20px;
+    top: 10px;
     left: 1.5rem;
-    box-shadow: 8px 6px 20px 0 rgba(0, 0, 0, 0.2), -8px -6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 8px 6px 20px 0 rgba(85, 82, 82, 0.2), -8px -6px 20px 0 rgba(0, 0, 0, 0.19);
     text-align: center;
 }
 .homeIcon{

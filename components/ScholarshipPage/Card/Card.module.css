@@ -2,7 +2,7 @@
     width: 261px;
     height: 328px;
     background-color: white;
-    box-shadow: 4px 2px 18px 0 rgba(0, 0, 0, 0.2), -4px -2px 12px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0px 0px 18.446px 1.299px rgba(0, 0, 0, 0.25);
     position: relative;
     top: 50px;
     left: 9rem;
@@ -12,6 +12,7 @@
     float: left;
     margin-left: 30px;
     margin-top: 30px;
+    
 }
 
 .button{
@@ -22,6 +23,9 @@
     left: 0;
     background-color: #4286F5;
     border-radius: 0 0 16px 16px;
+    opacity: 80%;
+    color: #FFFFFF;
+    opacity: 80%;
 
 }
 
@@ -35,4 +39,67 @@
     border-radius: 20px;
     padding: 20px;
     box-shadow: 4px 2px 18px 0 rgba(0, 0, 0, 0.2), -4px -2px 12px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title{
+color: #34A853;
+font-family: "Arimo Hebrew Subset";
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+height: 60px;
+}
+
+.date{
+width: 200.044px;
+height: 30px;
+flex-shrink: 0;
+font-family: "Arimo Hebrew Subset";
+color: #5F6267;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.eligiblityTitle{
+width: 226.673px;
+height: 30px;
+flex-shrink: 0;
+color: #34A853;
+font-family: "Arimo Hebrew Subset";
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.eligiblity{
+color: #5F6267;
+height: 50px;
+font-family: "Arimo Hebrew Subset";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.awardTitle{
+color: #34A853;
+height: 30px;
+font-family: "Arimo Hebrew Subset";
+font-size: 18.186px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.award{
+color: #5F6267;
+font-family: "Arimo Hebrew Subset";
+font-size: 16.237px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }

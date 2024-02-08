@@ -6,8 +6,8 @@ import Image from "next/image";
 const PopUpModal = () => {
   return (
     <div>
-      <h1>JN Tata Endowment Loan Scholarship 2024-25</h1>
-      <p><Image src='/calender.png' alt="" height={20} width={20}/>Deadline15-Mar-2024Eligibility</p>
+      <h1 className={styles.heading} >JN Tata Endowment Loan Scholarship 2024-25</h1>
+      <div className={styles.deadline}><p><Image src='/calender.png' alt="" height={20} width={20}/>Deadline15-Mar-2024</p></div>
       <h2>Eligiblity</h2>
       <ul className={styles.eligible}>
         <li>

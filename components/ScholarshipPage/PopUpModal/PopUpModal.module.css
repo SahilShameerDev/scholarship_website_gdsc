@@ -1,6 +1,40 @@
 .eligible{
-    list-style-type: disc; /* Change bullet type to disc */
-  color: black; /* Change bullet color to blue */
-  margin-left: 20px; /* Add indentation */
-  line-height: 1.5; /* Adjust line spacing */
+    /*list-style-type: disc; /* Change bullet type to disc */
+  /*color: black; /* Change bullet color to blue */
+  /*margin-left: 20px; /* Add indentation */
+ /* line-height: 1.5; /* Adjust line spacing */
+ color: #000;
+font-family: Arial;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  
 }
+
+.heading{
+  color: #000;
+  font-family: "Google Sans Display";
+  font-size: 29.008px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.deadline {
+  color: #000;
+  font-family: Arial;
+  font-size: 13.431px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: flex; /* Use flexbox */
+  align-items: center; /* Align items vertically */
+  justify-content: flex-end; /* Align items to the right */
+}
+
+.deadline p {
+  margin-right: 5px; /* Add some space between the image and the caption */
+}
+
+
