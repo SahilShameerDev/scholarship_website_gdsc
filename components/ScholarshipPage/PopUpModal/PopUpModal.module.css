@@ -1,15 +1,15 @@
 .eligible{
-    /*list-style-type: disc; /* Change bullet type to disc */
-  /*color: black; /* Change bullet color to blue */
-  /*margin-left: 20px; /* Add indentation */
- /* line-height: 1.5; /* Adjust line spacing */
+  list-style-type: disc; /* Change bullet type to disc */
+color: black; /* Change bullet color to blue */
+margin-left: 20px; /* Add indentation */
+ line-height: 1.5; /* Adjust line spacing */
  color: #000;
-font-family: Arial;
+font-family: "Google Sans Display";
 font-size: 15px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-  
+
 }
 
 .heading{
@@ -22,15 +22,16 @@ line-height: normal;
 }
 
 .deadline {
-  color: #000;
-  font-family: Arial;
-  font-size: 13.431px;
+  color: #FF0000;
+  font-family: "Google Sans Display";
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   display: flex; /* Use flexbox */
   align-items: center; /* Align items vertically */
   justify-content: flex-end; /* Align items to the right */
+  font-weight: bold;
 }
 
 .deadline p {
@@ -38,3 +39,47 @@ line-height: normal;
 }
 
 
+.applybutton{
+width: 147.954px;
+height: 34.656px;
+flex-shrink: 0;
+border-radius: 14.514px;
+background: #34A853;
+box-shadow: 4.324px 3.604px 5.045px 1.441px rgba(0, 0, 0, 0.25);
+color: #FFF;
+font-family: "Google Sans Display";
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+line-height: 34.656px;
+margin-left: 40%;
+}
+
+.heading {
+height: 30px;
+color: #000;
+font-family: "Google Sans Display" ;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.headingmain{
+  height: 50px;
+color: #000;
+font-family:"Google Sans Display";
+font-size: 21px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.image{
+  width: 26.862px;
+height: 26.862px;
+flex-shrink: 0;
+
+}
