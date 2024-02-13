@@ -19,10 +19,11 @@
 .scrollableContainer {
   width: 100%; /* Or a suitable width for content */
   overflow-x: scroll;
-  overflow-y: hidden; /* Prevent vertical scrollbar */
+  overflow-y: auto; /* Prevent vertical scrollbar */
   scroll-behavior: smooth; /* Enable smooth scrolling */
   scrollbar-width: none; /* Firefox (newer versions) */
   -ms-overflow-style: none; /* Internet Explorer/Edge */
+  cursor: grab;
 }
 
 .cards {
@@ -37,7 +38,7 @@
     left: 70rem;
     width: 45px;
     height: 45px;
-    background-color: aqua;
+    background-color: cyan;
     border-radius: 11px ;
     margin: 0;
     border: 0;
