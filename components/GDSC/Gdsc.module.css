@@ -1,24 +1,70 @@
-.gdsc{
+/* Base styles */
+.gdsc {
     font-weight: 600;
     font-size: 20px;
     line-height: 20px;
     color: #5F6267;
     position: absolute;
     top: 10%;
-    left:10rem;
-    
-}
-.toch{
+    left: 10rem;
+   }
+   
+   .toch {
     font-weight: 400;
     font-size: 15px;
     line-height: 35px;
     color: #5F6267;
     position: absolute;
     top: 14%;
-    left:10rem; 
-}
-.logo{
+    left: 10rem;
+   }
+   
+   .logo {
     position: absolute;
     top: 5%;
-    left:3rem 
-}
+    left: 3rem;
+   }
+   
+   /* Responsive styles */
+   @media (max-width: 768px) {
+    .gdsc {
+        display: none;
+       font-size: 18px;
+       line-height: 18px;
+       left: 5rem; /* Adjust left position for smaller screens */
+    }
+   
+    .toch {
+        display: none;
+       font-size: 13px;
+       line-height: 28px;
+       left: 5rem; /* Adjust left position for smaller screens */
+    }
+   
+    .logo {
+       top: 3%;
+       left: 2rem; /* Adjust left position for smaller screens */
+    }
+   }
+   
+   @media (max-width: 480px) {
+    .gdsc {
+        display: none;
+       font-size: 16px;
+       line-height: 16px;
+       left: 2rem; /* Further adjust left position for even smaller screens */
+    }
+   
+    .toch {
+        display: none;
+       font-size: 12px;
+       line-height: 24px;
+       left: 2rem; /* Further adjust left position for even smaller screens */
+    }
+   
+    .logo {
+       top: 2%;
+       left: 1rem; /* Further adjust left position for even smaller screens */
+    }
+   }
+   

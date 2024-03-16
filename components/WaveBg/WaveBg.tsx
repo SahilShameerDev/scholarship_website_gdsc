@@ -1,11 +1,12 @@
 import React from "react";
+import style from "./WaveBg.module.css";
+
 
 const WaveBg = () => {
   return (
-    <div>
-      <svg
-        width="1142"
-        height="542"
+    <div className={style.waveBgContainer}>
+      <svg 
+        
         viewBox="0 0 1142 542"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"

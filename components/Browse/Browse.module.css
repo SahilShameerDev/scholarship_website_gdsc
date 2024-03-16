@@ -1,4 +1,5 @@
-.callOut{
+/* Base styles */
+.callOut {
     font-weight: 700;
     font-size: 36px;
     line-height: 45px;
@@ -7,12 +8,55 @@
     top: 1150px;
     right: 10rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.bg{
+   }
+   
+   .bg {
     position: absolute;
     bottom: 0;
     left: 0;
     top: 1200px;
     z-index: -1;
-}
+   }
+   
+   /* Responsive styles */
+   @media (max-width: 1200px) {
+    .callOut {
+       font-size: 32px;
+       line-height: 40px;
+       top: 1050px;
+       right: 5rem;
+    }
+   
+    .bg {
+       top: 1100px;
+    }
+   }
+   
+ 
+   
+   @media (max-width: 768px) {
+    .callOut {
+       font-size: 24px;
+       line-height: 30px;
+       top: 935px;
+       right: 2rem;
+    }
+   
+    .bg {
+       top: 900px;
+    }
+   }
+   
+   @media (max-width: 480px) {
+    .callOut {
+       font-size: 15px;
+       line-height: 25px;
+       top: 900px;
+       right: 1rem;
+    }
+   
+    .bg {
+       top: 900px;
+    }
+   }
+   

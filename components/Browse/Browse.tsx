@@ -13,7 +13,7 @@ const Browse = () => {
         </h1>
         <BrowseButton/>
         <div className={styles.bg}>
-            <WaveBg/>
+            <img src="wave.png" alt="" />
         </div>
     </div>
   )

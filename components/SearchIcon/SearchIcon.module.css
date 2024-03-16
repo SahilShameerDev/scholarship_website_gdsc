@@ -1,7 +1,24 @@
+/* Base styles */
 .search {
   position: absolute;
   top: 4.5rem;
   right: 31.4rem;
-
   opacity: 0.6;
-}
+ }
+ 
+ /* Responsive styles */
+ @media (max-width: 768px) {
+  .search {
+     top: 4.2rem; /* Adjust top position for smaller screens */
+     right: 22.3rem; /* Adjust right position for smaller screens */
+  }
+ }
+ 
+ @media (max-width: 480px) {
+  .search {
+     top: 4.5rem; /* Further adjust top position for even smaller screens */
+     right: 12rem; /* Further adjust right position for even smaller screens */
+     width: 2vh;
+  }
+ }
+ 

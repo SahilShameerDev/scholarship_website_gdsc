@@ -1,0 +1,8 @@
+
+.wave-bg-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh; /* Adjust the height as needed */
+    overflow: hidden; /* Ensures the SVG doesn't overflow its container */
+
+   }

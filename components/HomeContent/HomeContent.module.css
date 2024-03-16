@@ -1,30 +1,59 @@
-.mainhead{
+/* Base styles */
+.mainhead {
     font-weight: 700;
     font-size: 40px;
     line-height: 20px;
     color: #5F6267;
     position: absolute;
     top: 50%;
-    left:10rem ;
+    left: 10rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.subhead{
+   }
+   
+   .subhead, .subhead2 {
     font-weight: 400;
     font-size: 18px;
     line-height: 35px;
     color: #5F6267;
     position: absolute;
+    left: 10rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   
+   .subhead {
     top: 60%;
-    left:10rem; 
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.subhead2{
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 35px;
-    color: #5F6267;
-    position: absolute;
+   }
+   
+   .subhead2 {
     top: 65%;
-    left:10rem; 
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+   }
+   
+   /* Responsive styles */
+   @media (max-width: 768px) {
+    .mainhead {
+       font-size: 32px;
+       line-height: 16px;
+       left: 5rem; /* Adjust left position for smaller screens */
+    }
+   
+    .subhead, .subhead2 {
+       font-size: 16px;
+       line-height: 28px;
+       left: 5rem; /* Adjust left position for smaller screens */
+    }
+   }
+   
+   @media (max-width: 480px) {
+    .mainhead {
+       font-size: 28px;
+       line-height: 14px;
+       left: 2rem; /* Further adjust left position for even smaller screens */
+    }
+   
+    .subhead, .subhead2 {
+       font-size: 14px;
+       line-height: 24px;
+       left: 2rem; /* Further adjust left position for even smaller screens */
+    }
+   }
+   
