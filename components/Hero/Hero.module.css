@@ -1,0 +1,60 @@
+.circleContainer {
+  width: 25vh;
+}
+
+.gear {
+  position: absolute;
+  top: 0;
+  right: -120px;
+  width: 65vh;
+  overflow-x: inherit;
+}
+
+.person{
+    width: 70vh;
+    position: absolute;
+    top: 30vh;
+    right: 0px;
+    z-index: -1;
+}
+.music{
+    width: 57vh;
+    position: absolute;
+    top: 38vh;
+    right: 0;
+}
+.bookUpsideDown{
+    width: 30vh;
+    position: absolute;
+    top: 40vh;
+    right:27rem;
+}
+.openBook{
+    width: 36vh;
+    position: absolute;
+    top: 23vh;
+    right:0rem;
+}
+.bulb{
+    width: 29vh;
+    position: absolute;
+    top: 18vh;
+    right:20rem;
+}
+
+
+/* sm screens */
+@media (max-width: 768px) {
+  .circleContainer {
+    width: 12vh;
+  }
+  .gear {
+    width: 30vh;
+    position: absolute;
+    top: 0;
+    right: 0px;
+  }
+  .illustration{
+    display: none;
+  }
+}
