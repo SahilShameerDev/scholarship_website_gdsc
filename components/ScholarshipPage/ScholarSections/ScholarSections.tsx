@@ -5,13 +5,28 @@ import React, { createContext, useRef, useState, useEffect } from "react";
 import styles from "./ScholarSection.module.css";
 import Cards from "../Card/Card";
 
+interface Scholarship {
+  title: string;
+    deadline: string;
+    eligibility: string;
+    benefits: string;
+    documents: string;
+    contact_no: string;
+    email: string;
+    link: string;
+    status: string;
+  // Add other properties as needed, e.g., deadline, eligibility, benefits, etc.
+ }
+ 
 interface ScholarSectionsProps {
   title: string;
+  scholarships: Scholarship[]; // Add a prop for the scholarships data
 }
 
-const ScholarSections: React.FC<ScholarSectionsProps> = ({ title }) => {
-  const [isTranslated, setIsTranslated] = useState(false);
 
+
+const ScholarSections: React.FC<ScholarSectionsProps> = ({  scholarships, title }) => {  
+  const [isTranslated, setIsTranslated] = useState(false);
   const handleTranslate = () => {
     setIsTranslated(!isTranslated);
   };
@@ -41,13 +56,9 @@ const ScholarSections: React.FC<ScholarSectionsProps> = ({ title }) => {
           }
           transition={{ duration: 0.3 }}
         >
-          <Cards />
-          <Cards />
-          <Cards />
-          <Cards />
-          <Cards />
-          <Cards />
-          <Cards />
+          {scholarships.map((scholarship, index) => (
+            <Cards key={index} scholarship={scholarship} />
+          ))}
         </motion.div>
       </motion.div>
     </div>

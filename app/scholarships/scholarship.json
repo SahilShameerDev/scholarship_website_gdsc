@@ -1,0 +1,147 @@
+{
+    "scholarships": [
+           {
+             "title": "JN Tata Endowment Loan Scholarship 2024-25",
+             "deadline": "15-Mar-2024",
+             "eligibility": "For students across India for higher studies abroad. Candidates should be Indians, not older than 45 years as of June 30, 2024, and graduates of a recognised Indian university with at least 60% marks on average in their undergraduate or postgraduate studies. Candidates are not eligible to apply if their undergraduate degree is not from a recognised university in India. The course to which candidates are admitted must be recognized as a Graduate Program. Candidates who did not get selected in the previous year/earlier for the loan scholarship and candidates who could not avail of the loan scholarship when they were selected are eligible to apply a fresh. Candidates who are already pursuing postgraduate studies abroad may apply either at the end of their first year of studies or at the commencement of the second year, provided there is a minimum of one full academic year remaining to be completed at the time of the loan scholarship award, typically in July of any calendar year.",
+             "benefits": "Loan scholarship of up to INR 10 lakh",
+             "documents": "The entire scholarship program comprises four phases and candidates will be informed about the status of their application at the end of each phase.",
+             "contact_no": "123-456-7890",
+             "email": "scholarships@xyzuniversity.edu",
+             "link": "https://www.xyzuniversity.edu/scholarships",
+             "status": "open now"
+           },
+           {
+             "title": "XYZ University Merit Scholarship 2024",
+             "deadline": "30-Apr-2024",
+             "eligibility": "Open to all students of XYZ University. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies. Preference will be given to students pursuing their final year.",
+             "benefits": "Full tuition fee waiver for the duration of the course.",
+             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+             "contact_no": "123-456-7890",
+             "email": "scholarships@xyzuniversity.edu",
+             "link": "https://www.xyzuniversity.edu/scholarships",
+             "status": "upcoming"
+           },
+           {
+             "title": "ABC Corporation Scholarship for Women 2024",
+             "deadline": "15-May-2024",
+             "eligibility": "Open to female students of any university in India. Candidates must be pursuing a postgraduate degree in any field. Preference will be given to candidates who have demonstrated leadership skills and community service.",
+             "benefits": "A stipend of INR 50,000 per year for the duration of the course.",
+             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement detailing their leadership and community service experiences.",
+             "contact_no": "987-654-3210",
+             "email": "womenscholarships@abc.com",
+             "link": "https://www.abc.com/womenscholarships",
+             "status": "open now"
+           },
+           {
+             "title": "DEF Scholarship for Science Students 2024",
+             "deadline": "30-Jun-2024",
+             "eligibility": "Open to students pursuing a degree in Science. Candidates must have a minimum CGPA of 8.0 out of 10 in their undergraduate studies.",
+             "benefits": "Full tuition fee waiver and a monthly stipend of INR 15,000.",
+             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+             "contact_no": "123-456-7890",
+             "email": "sciencescholarships@def.org",
+             "link": "https://www.def.org/sciencescholarships",
+             "status": "upcoming"
+           },
+           {
+             "title": "GHI Scholarship for Arts Students 2024",
+             "deadline": "15-Jul-2024",
+             "eligibility": "Open to students pursuing a degree in Arts. Candidates must have a minimum CGPA of 7.5 out of 10 in their undergraduate studies.",
+             "benefits": "Full tuition fee waiver and a monthly stipend of INR 12,000.",
+             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+             "contact_no": "987-654-3210",
+             "email": "artsscholarships@ghi.com",
+             "link": "https://www.ghi.com/artsscholarships",
+             "status": "open now"
+           },
+           {
+             "title": "JKL Scholarship for Disabled Students 2024",
+             "deadline": "30-Aug-2024",
+             "eligibility": "Open to students with disabilities. Candidates must have a minimum CGPA of 6.5 out of 10 in their undergraduate studies.",
+             "benefits": "Full tuition fee waiver and a monthly stipend of INR 10,000.",
+             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+             "contact_no": "123-456-7890",
+             "email": "disabledscholarships@jkl.org",
+             "link": "https://www.jkl.org/disabledscholarships",
+             "status": "upcoming"
+           },
+           {
+             "title": "MNO Scholarship for International Students 2024",
+             "deadline": "15-Sep-2024",
+             "eligibility": "Open to international students pursuing a degree in any field. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies.",
+             "benefits": "Full tuition fee waiver and a monthly stipend of INR 15,000.",
+             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+             "contact_no": "987-654-3210",
+             "email": "internationalscholarships@mno.com",
+             "link": "https://www.mno.com/internationalscholarships",
+             "status": "open now"
+           },
+           {
+             "title": "PQR Scholarship for First-Generation Students 2024",
+             "deadline": "30-Oct-2024",
+             "eligibility": "Open to first-generation students pursuing a degree in any field. Candidates must have a minimum CGPA of 6.5 out of 10 in their undergraduate studies.",
+             "benefits": "Full tuition fee waiver and a monthly stipend of INR 12,000.",
+             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+             "contact_no": "123-456-7890",
+             "email": "firstgenscholarships@pqr.org",
+             "link": "https://www.pqr.org/firstgenscholarships",
+             "status": "upcoming"
+           },
+           {
+            "title": "STU Scholarship for Sports Students 2024",
+            "deadline": "15-Nov-2024",
+            "eligibility": "Open to students pursuing a degree in Sports. Candidates must have a minimum CGPA of 7.5 out of 10 in their undergraduate studies.",
+            "benefits": "Full tuition fee waiver and a monthly stipend of INR 15,000.",
+            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+            "contact_no": "987-654-3210",
+            "email": "sportsscholarships@stu.com",
+            "link": "https://www.stu.com/sportsscholarships",
+            "status": "open now"
+        },
+        {
+            "title": "VWX Scholarship for Environmental Studies Students 2024",
+            "deadline": "30-Dec-2024",
+            "eligibility": "Open to students pursuing a degree in Environmental Studies. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies.",
+            "benefits": "Full tuition fee waiver and a monthly stipend of INR 12,000.",
+            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+            "contact_no": "123-456-7890",
+            "email": "environmentalscholarships@vwx.org",
+            "link": "https://www.vwx.org/environmentalscholarships",
+            "status": "upcoming"
+        },
+        {
+            "title": "XYZ Scholarship for Computer Science Students 2024",
+            "deadline": "15-Jan-2025",
+            "eligibility": "Open to students pursuing a degree in Computer Science. Candidates must have a minimum CGPA of 7.5 out of 10 in their undergraduate studies.",
+            "benefits": "Full tuition fee waiver and a monthly stipend of INR 15,000.",
+            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+            "contact_no": "123-456-7891",
+            "email": "computersciencescholarships@xyz.org",
+            "link": "https://www.xyz.org/computersciencescholarships",
+            "status": "upcoming"
+        },
+        {
+            "title": "ABC Scholarship for Physics Students 2024",
+            "deadline": "20-Feb-2025",
+            "eligibility": "Open to students pursuing a degree in Physics. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies.",
+            "benefits": "Full tuition fee waiver and a monthly stipend of INR 10,000.",
+            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+            "contact_no": "123-456-7892",
+            "email": "physicsscholarships@abc.org",
+            "link": "https://www.abc.org/physicsscholarships",
+            "status": "open now"
+        },
+        {
+            "title": "DEF Scholarship for Mathematics Students 2024",
+            "deadline": "25-Mar-2025",
+            "eligibility": "Open to students pursuing a degree in Mathematics. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies.",
+            "benefits": "Full tuition fee waiver and a monthly stipend of INR 12,000.",
+            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
+            "contact_no": "123-456-7893",
+            "email": "mathematicsscholarships@def.org",
+            "link": "https://www.def.org/mathematicsscholarships",
+            "status": "open now"
+        }
+    ]
+}

@@ -4,7 +4,24 @@ import styles from "./Card.module.css";
 import Modal from "react-modal";
 import PopUpModal from "../PopUpModal/PopUpModal";
 
-const Cards = () => {
+interface Scholarship {
+  title: string;
+    deadline: string;
+    eligibility: string;
+    benefits: string;
+    documents: string;
+    contact_no: string;
+    email: string;
+    link: string;
+    status: string;
+ }
+ 
+ interface CardsProps {
+  scholarship: Scholarship;
+ }
+
+
+ const Cards: React.FC<CardsProps> = ({ scholarship }) => {
   const [modalIsOpen, setModalIsOpen] = useState(false);
 
   const openModal = ()=>{
@@ -16,14 +33,14 @@ const Cards = () => {
   return (
     <div>
       <div className={styles.panel}>
-        <h1 className={styles.title}>JN Tata Endowment Loan Scholarship 2024-25</h1>
-        <p className={styles.date}>January 29th</p>
+        <h1 className={styles.title}>{scholarship.title}</h1>
+        <p className={styles.date}>{scholarship.deadline}</p>
         <h2 className={styles.eligiblityTitle}>Eligiblity</h2>
         <p className={styles.eligiblity}>
           For students across India for higher studies abroad
         </p>
         <h2 className={styles.awardTitle}>Award</h2>
-        <p className={styles.award}>Loan scholarship of up to INR 10 lakh</p>
+        <p className={styles.award}>{scholarship.benefits}</p>
         <button onClick={openModal} className={styles.button}> View Scholarship</button>
       </div>
 
@@ -35,7 +52,7 @@ const Cards = () => {
       style={{ content: { overflowY: 'auto', maxHeight: '95vh' } }}
       className={styles.popUp}
       >
-        <PopUpModal/>
+        <PopUpModal scholarship={scholarship} />
       </Modal>
     </div>
   );
