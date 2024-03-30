@@ -1,0 +1,58 @@
+.scholar{
+    height: 100%;
+    background-color: #FFFFFF;
+    z-index: -2;
+}
+.container {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Vertically center elements */
+  }
+  
+  .title {
+    text-decoration: underline;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 41px;
+    margin-top: 5px; /* Adjust as needed */
+    margin-left: 140px;
+  }
+  .scrollableContainer::-webkit-scrollbar {
+    display: none; /* Hide default scrollbar for Webkit browsers */
+  }
+  .scrollableContainer {
+    width: 100%; /* Or a suitable width for content */
+    overflow-x: scroll;
+    overflow-y: auto; /* Prevent vertical scrollbar */
+    scroll-behavior: smooth; /* Enable smooth scrolling */
+    scrollbar-width: none; /* Firefox (newer versions) */
+    -ms-overflow-style: none; /* Internet Explorer/Edge */
+    cursor: grab;
+  }
+  
+  .cards {
+    display: flex;
+    flex-wrap: left; /* Allow cards to wrap on small screens */
+    padding: 20px;
+    gap: 20px; /* Space between cards */
+  }
+  .button{
+      position: relative;
+      top: -20px;
+      left: 70rem;
+      width: 45px;
+      height: 45px;
+      background-color: cyan;
+      border-radius: 11px ;
+      margin: 0;
+      border: 0;
+  }
+  .error{
+    color: red;
+    font-size: 20px;
+    margin-left: 140px;
+    margin-top: 100px;
+  }
+  
+  

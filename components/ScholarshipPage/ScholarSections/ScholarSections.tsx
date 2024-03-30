@@ -30,29 +30,24 @@ const ScholarSections: React.FC<ScholarSectionsProps> = ({  scholarships, title 
   const handleTranslate = () => {
     setIsTranslated(!isTranslated);
   };
+
+  const cardWidth = 261;
+  // Calculate the total width of all cards
+  const totalWidth = scholarships.length * cardWidth;
+  
   return (
     <div className={styles.container}>
       <h2 className={styles.title}>{title}</h2>
-      <div>
-        <motion.button
-          whileHover={{ scale: 1.1 }} // Scale up slightly on hover
-          whileTap={{ scale: 0.9 }} // Scale down and change color on tap
-          transition={{ duration: 0.2 }}
-          className={styles.button}
-          onClick={handleTranslate}
-        >
-          &gt;
-        </motion.button>
-      </div>
+      
 
       <motion.div className={styles.scrollableContainer}>
         <motion.div
           className={styles.cards}
           drag="x" // Enable horizontal drag
           dragElastic={0.3} // Add slight springiness to drag
-          dragConstraints={{ right: 0, left: -1032 }}
+          dragConstraints={{ right: 0, left: -totalWidth }}
           animate={
-            isTranslated ? { translateX: "-1100px" } : { translateX: "0px" }
+            isTranslated ? { translateX: `-${totalWidth}px` } : { translateX: "0px" }
           }
           transition={{ duration: 0.3 }}
         >

@@ -8,10 +8,13 @@ import ScholarSections from '@/components/ScholarshipPage/ScholarSections/Schola
 import AllScholarShips from '@/components/ScholarshipPage/AllScholarShips/AllScholarShips'
 import data from './scholarship.json';
 
+
 const page = () => {
 
   const openNowScholarships = data.scholarships.filter(scholarship => scholarship.status === 'open now');
   const upcomingScholarships = data.scholarships.filter(scholarship => scholarship.status === 'upcoming');
+
+
 
   return (
     <div className={style.scholar}>
