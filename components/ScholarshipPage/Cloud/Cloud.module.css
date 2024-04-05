@@ -15,6 +15,18 @@
     
 }
 
+.cloudShape {
+    position: absolute;
+    top: -20px;
+    left: -40px;
+    width: 200px;
+    height: 200px;
+    background-color: #09aaf4;
+    border-radius: 50%;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+
+}
+
 .button{
     width: 261px;
     height: 47px;
