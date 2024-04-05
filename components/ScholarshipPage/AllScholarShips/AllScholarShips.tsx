@@ -1,7 +1,7 @@
 
 import React from 'react'
 import styles from './AllScholarShips.module.css'
-import Card from '../Card/Card'
+import Card from '../Cloud/Cloud'
 
 const AllScholarShips = () => {
   return (

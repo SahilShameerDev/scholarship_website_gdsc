@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import React, { createContext, useRef, useState, useEffect } from "react";
 import styles from "./ScholarSection.module.css";
-import Cards from "../Card/Card";
+import Cards from "../Cloud/Cloud";
 
 interface ScholarSectionsProps {
   title: string;
