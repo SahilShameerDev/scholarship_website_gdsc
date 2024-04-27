@@ -1,4 +1,3 @@
-
 import React from 'react'
 import styles from './AllScholarShips.module.css'
 import Card from '../Card/Card'
@@ -36,5 +35,6 @@ interface Scholarship {
     </div>
   )
 }
+
 
 export default AllScholarShips

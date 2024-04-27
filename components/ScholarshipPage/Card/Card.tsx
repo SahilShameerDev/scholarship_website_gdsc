@@ -114,4 +114,4 @@ interface Scholarship {
   );
 };
 
-export default Cards;
+export default Cards
