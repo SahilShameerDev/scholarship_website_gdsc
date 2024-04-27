@@ -7,8 +7,8 @@ const PopUpModal = () => {
   return (
     <div>
       <h1 className={styles.headingmain} >JN Tata Endowment Loan Scholarship 2024-25</h1>
-      <div className={styles.deadline}><p><Image className={styles.image} src='/calender.png' alt="" height={20} width={20}/>Deadline15-Mar-2024</p></div>
-      <h2 className={styles.heading}>Eligiblity</h2>
+      <div className={styles.deadline}><Image className={styles.image} src='/calender.png' alt="" height={20} width={20}/><p>Deadline15-Mar-2024</p></div>
+      <h2 className={styles.heading}>Eligibility</h2>
       <ul className={styles.eligible}>
         <li>
           Candidates should be Indians, not older than 45 years as of June 30,
@@ -44,14 +44,12 @@ const PopUpModal = () => {
       </p></div>
       <h2  className={styles.heading}>Contact</h2>
       <div className={styles.eligible}>
-      <p>
       <Image src='/phone.png' alt="" height={20} width={20}/>
-      00000 11111
-      </p>
-      <p>
+      <p>00000 11111</p>
+      
       <Image src='/email.png' alt="" height={20} width={20}/>
-        name@mail
-        </p>
+      <p>name@mail</p>
+        
       </div>
       
       <div className={styles.applybutton}>

@@ -1,10 +1,10 @@
 "use client"
 import React, { useState } from "react";
-import styles from "./cloud.module.css";
+import styles from "./card.module.css";
 import Modal from "react-modal";
 import PopUpModal from "../PopUpModal/PopUpModal";
 
-const Cloud = () => {
+const card = () => {
   const [modalIsOpen, setModalIsOpen] = useState(false);
 
   const openModal = ()=>{
@@ -15,8 +15,6 @@ const Cloud = () => {
   }
   return (
     <div>
-      {/* Cloud Shape */}
-      <div className={styles.cloudShape}></div>
       
       <div className={styles.panel}>
         <h1 className={styles.title}>JN Tata Endowment Loan Scholarship 2024-25</h1>
@@ -44,4 +42,4 @@ const Cloud = () => {
   );
 };
 
-export default Cloud;
+export default card
