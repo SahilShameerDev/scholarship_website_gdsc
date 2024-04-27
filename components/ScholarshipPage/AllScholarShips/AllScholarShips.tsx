@@ -3,6 +3,7 @@ import React from 'react'
 import styles from './AllScholarShips.module.css'
 import Card from '../Card/Card'
 
+
 interface Scholarship {
   title: string;
   deadline: string;
@@ -22,9 +23,11 @@ interface Scholarship {
 
 
  const AllScholarShips: React.FC<AllScholarShipsProps> = ({ scholarships }) => {
+
   return (  
     <div>
         <h1 className={styles.title}>All Scholarships</h1>
+  
         <div className={styles.cards}>
         {scholarships.map((scholarship, index) => (
           <Card key={index} scholarship={scholarship} />

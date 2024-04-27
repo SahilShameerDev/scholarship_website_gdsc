@@ -4,6 +4,7 @@ import styles from './Browse.module.css'
 import BrowseButton from '../BrowseButton/BrowseButton'
 import WaveBg from '../WaveBg/WaveBg'
 
+
 const Browse = () => {
   return (
     <div>

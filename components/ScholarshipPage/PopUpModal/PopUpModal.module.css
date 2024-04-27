@@ -22,9 +22,9 @@ line-height: normal;
 }
 
 .deadline {
-  color: #FF0000;
+  color: black;
   font-family: "Google Sans Display";
-  font-size: 18px;
+  font-size: 15px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -32,6 +32,7 @@ line-height: normal;
   align-items: center; /* Align items vertically */
   justify-content: flex-end; /* Align items to the right */
   font-weight: bold;
+  opacity: 45%;
 }
 
 .deadline p {
@@ -55,6 +56,10 @@ line-height: normal;
 text-align: center;
 line-height: 34.656px;
 margin-left: 40%;
+}
+
+.applybutton:hover{
+  background: #5fce7d;
 }
 
 .heading {
