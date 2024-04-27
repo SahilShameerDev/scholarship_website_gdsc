@@ -7,7 +7,7 @@ This project, developed by GDSC Toc H, aims to create a user-friendly scholarshi
 ## Website Functionality 
 
 Scholarship Details: Each scholarship listing will provide comprehensive information, such as:
- - Description of the scholarship award
+ - Description of the scholarship awards
  - Eligibility criteria
  - Application deadlines and instructions
  - Contact information for the scholarship provider
