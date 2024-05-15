@@ -11,6 +11,26 @@
     margin-top: 100px; /* Adjust as needed */
     margin-left: 170px;
   }
+.delete{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    width: 20px;
+    height: 20px;
+    margin-top: 20px; /* Adjust as needed */
+    margin-left: 190px;
+    text-align: center;
+    font-weight: 700;
+    vertical-align: middle;
+    font-size: 13px;
+}
+.delete:hover{
+    background-color: rgb(230, 60, 60);
+    color: white;
+    border-radius: 5px;
+    width: 21px;
+    height: 21px;
+}
 
 /* Media queries for further adjustments */
 @media (max-width: 768px) {

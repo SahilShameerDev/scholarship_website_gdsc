@@ -2,7 +2,7 @@
 .browseBtn {
     position: absolute;
     top: 1300px;
-    right: 27.5rem;
+    right: 30rem;
     background-color: #4286F5;
     height: 3.375rem;
     width: 14.625rem;
@@ -29,7 +29,7 @@
    @media (max-width: 1200px) {
     .browseBtn {
        top: 1200px;
-       right: 20rem;
+       right: 24rem;
        height: 3rem;
        width: 12rem;
        padding: 10px;
@@ -46,7 +46,8 @@
    @media (max-width: 768px) {
     .browseBtn {
        top: 1020px;
-       right: 10rem;
+       right: 13rem;
+       background-color: #5c98fa;
        height: 2rem;
        width: 11rem;
        padding: 6px;
@@ -62,7 +63,7 @@
    @media (max-width: 480px) {
     .browseBtn {
        top: 970px;
-       right: 5rem;
+       right: 5.5rem;
        height: 1.5rem;
        width:8rem;
        padding: 4px;

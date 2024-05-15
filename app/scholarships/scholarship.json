@@ -1,148 +1,5 @@
 {
     "scholarships": [
-           {
-             "title": "Hello",
-             "deadline": "15-Mar-2024",
-             "eligibility": "For students across India for higher studies abroad. Candidates should be Indians, not older than 45 years as of June 30, 2024, and graduates of a recognised Indian university with at least 60% marks on average in their undergraduate or postgraduate studies. Candidates are not eligible to apply if their undergraduate degree is not from a recognised university in India. The course to which candidates are admitted must be recognized as a Graduate Program. Candidates who did not get selected in the previous year/earlier for the loan scholarship and candidates who could not avail of the loan scholarship when they were selected are eligible to apply a fresh. Candidates who are already pursuing postgraduate studies abroad may apply either at the end of their first year of studies or at the commencement of the second year, provided there is a minimum of one full academic year remaining to be completed at the time of the loan scholarship award, typically in July of any calendar year.",
-             "benefits": "Loan scholarship of up to INR 10 lakh",
-             "documents": "The entire scholarship program comprises four phases and candidates will be informed about the status of their application at the end of each phase.",
-             "contact_no": "123-456-7890",
-             "email": "scholarships@xyzuniversity.edu",
-             "link": "https://www.xyzuniversity.edu/scholarships",
-             "status": "open now"
-           },
-           {
-             "title": "XYZ University Merit Scholarship 2024",
-             "deadline": "30-Apr-2024",
-             "eligibility": "Open to all students of XYZ University. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies. Preference will be given to students pursuing their final year.",
-             "benefits": "Full tuition fee waiver for the duration of the course.",
-             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-             "contact_no": "123-456-7890",
-             "email": "scholarships@xyzuniversity.edu",
-             "link": "https://www.xyzuniversity.edu/scholarships",
-             "status": "upcoming"
-           },
-           {
-             "title": "ABC Corporation Scholarship for Women 2024",
-             "deadline": "15-May-2024",
-             "eligibility": "Open to female students of any university in India. Candidates must be pursuing a postgraduate degree in any field. Preference will be given to candidates who have demonstrated leadership skills and community service.",
-             "benefits": "A stipend of INR 50,000 per year for the duration of the course.",
-             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement detailing their leadership and community service experiences.",
-             "contact_no": "987-654-3210",
-             "email": "womenscholarships@abc.com",
-             "link": "https://www.abc.com/womenscholarships",
-             "status": "open now"
-           },
-           {
-             "title": "DEF Scholarship for Science Students 2024",
-             "deadline": "30-Jun-2024",
-             "eligibility": "Open to students pursuing a degree in Science. Candidates must have a minimum CGPA of 8.0 out of 10 in their undergraduate studies.",
-             "benefits": "Full tuition fee waiver and a monthly stipend of INR 15,000.",
-             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-             "contact_no": "123-456-7890",
-             "email": "sciencescholarships@def.org",
-             "link": "https://www.def.org/sciencescholarships",
-             "status": "upcoming"
-           },
-           {
-             "title": "GHI Scholarship for Arts Students 2024",
-             "deadline": "15-Jul-2024",
-             "eligibility": "Open to students pursuing a degree in Arts. Candidates must have a minimum CGPA of 7.5 out of 10 in their undergraduate studies.",
-             "benefits": "Full tuition fee waiver and a monthly stipend of INR 12,000.",
-             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-             "contact_no": "987-654-3210",
-             "email": "artsscholarships@ghi.com",
-             "link": "https://www.ghi.com/artsscholarships",
-             "status": "open now"
-           },
-           {
-             "title": "JKL Scholarship for Disabled Students 2024",
-             "deadline": "30-Aug-2024",
-             "eligibility": "Open to students with disabilities. Candidates must have a minimum CGPA of 6.5 out of 10 in their undergraduate studies.",
-             "benefits": "Full tuition fee waiver and a monthly stipend of INR 10,000.",
-             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-             "contact_no": "123-456-7890",
-             "email": "disabledscholarships@jkl.org",
-             "link": "https://www.jkl.org/disabledscholarships",
-             "status": "upcoming"
-           },
-           {
-             "title": "MNO Scholarship for International Students 2024",
-             "deadline": "15-Sep-2024",
-             "eligibility": "Open to international students pursuing a degree in any field. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies.",
-             "benefits": "Full tuition fee waiver and a monthly stipend of INR 15,000.",
-             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-             "contact_no": "987-654-3210",
-             "email": "internationalscholarships@mno.com",
-             "link": "https://www.mno.com/internationalscholarships",
-             "status": "open now"
-           },
-           {
-             "title": "PQR Scholarship for First-Generation Students 2024",
-             "deadline": "30-Oct-2024",
-             "eligibility": "Open to first-generation students pursuing a degree in any field. Candidates must have a minimum CGPA of 6.5 out of 10 in their undergraduate studies.",
-             "benefits": "Full tuition fee waiver and a monthly stipend of INR 12,000.",
-             "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-             "contact_no": "123-456-7890",
-             "email": "firstgenscholarships@pqr.org",
-             "link": "https://www.pqr.org/firstgenscholarships",
-             "status": "upcoming"
-           },
-           {
-            "title": "STU Scholarship for Sports Students 2024",
-            "deadline": "15-Nov-2024",
-            "eligibility": "Open to students pursuing a degree in Sports. Candidates must have a minimum CGPA of 7.5 out of 10 in their undergraduate studies.",
-            "benefits": "Full tuition fee waiver and a monthly stipend of INR 15,000.",
-            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-            "contact_no": "987-654-3210",
-            "email": "sportsscholarships@stu.com",
-            "link": "https://www.stu.com/sportsscholarships",
-            "status": "open now"
-        },
-        {
-            "title": "VWX Scholarship for Environmental Studies Students 2024",
-            "deadline": "30-Dec-2024",
-            "eligibility": "Open to students pursuing a degree in Environmental Studies. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies.",
-            "benefits": "Full tuition fee waiver and a monthly stipend of INR 12,000.",
-            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-            "contact_no": "123-456-7890",
-            "email": "environmentalscholarships@vwx.org",
-            "link": "https://www.vwx.org/environmentalscholarships",
-            "status": "upcoming"
-        },
-        {
-            "title": "XYZ Scholarship for Computer Science Students 2024",
-            "deadline": "15-Jan-2025",
-            "eligibility": "Open to students pursuing a degree in Computer Science. Candidates must have a minimum CGPA of 7.5 out of 10 in their undergraduate studies.",
-            "benefits": "Full tuition fee waiver and a monthly stipend of INR 15,000.",
-            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-            "contact_no": "123-456-7891",
-            "email": "computersciencescholarships@xyz.org",
-            "link": "https://www.xyz.org/computersciencescholarships",
-            "status": "upcoming"
-        },
-        {
-            "title": "ABC Scholarship for Physics Students 2024",
-            "deadline": "20-Feb-2025",
-            "eligibility": "Open to students pursuing a degree in Physics. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies.",
-            "benefits": "Full tuition fee waiver and a monthly stipend of INR 10,000.",
-            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-            "contact_no": "123-456-7892",
-            "email": "physicsscholarships@abc.org",
-            "link": "https://www.abc.org/physicsscholarships",
-            "status": "upcoming"
-        },
-        {
-            "title": "DEF Scholarship for Mathematics Students 2024",
-            "deadline": "25-Mar-2025",
-            "eligibility": "Open to students pursuing a degree in Mathematics. Candidates must have a minimum CGPA of 7.0 out of 10 in their undergraduate studies.",
-            "benefits": "Full tuition fee waiver and a monthly stipend of INR 12,000.",
-            "documents": "Applicants must submit their academic transcripts, a letter of recommendation from a faculty member, and a personal statement.",
-            "contact_no": "123-456-7893",
-            "email": "mathematicsscholarships@def.org",
-            "link": "https://www.def.org/mathematicsscholarships",
-            "status": "upcoming"
-        },
         {
           "title": "Nutanix Women in Technology Scholarship 2024-2025",
           "application_opens": "1-Feb-2024",
@@ -161,7 +18,7 @@
           "eligibility": "The Future Scholarship (Global) is open to Indian students who are undergraduate or Master's students actively enrolled in an accredited university outside of North America during the academic years that the scholarship is awarded. Eligible students must be majoring in or plan to major in the fields of Computer Science, Software Engineering, or a closely related technical field. Have not been a Palantir scholarship recipient in the past.",
           "benefits": "Eligible recipients will have the opportunity to interview for internship and full-time roles with Palantir. All recipients will receive grants of $7,000 to support their education expenses.",
           "email": "future-scholarship@palantir.com",
-          "link": "Palantir Technologies - Future Scholarship (Global) (lever.co)",
+          "link": "https://www.palantir.com/careers/students/scholarship/future-global/",
           "winner_announcement": "June 2024"
        },
        {
@@ -171,13 +28,13 @@
           "eligibility": "The Women In Technology Scholarship (Global) is open to Indian students who are undergraduate or Master's students actively enrolled in an accredited university outside of North America during the academic years that the scholarship is awarded. Eligible students must be majoring in or plan to major in the fields of Computer Science, Software Engineering, or a closely related technical field. Identify as women. Have not been a Palantir scholarship recipient in the past.",
           "benefits": "Scholarship recipients will be invited to participate in professional development workshops tailored to prepare them for successful careers in the technology industry. Eligible recipients will have the opportunity to interview for internship and full-time roles. All recipients will receive grants of $7,000 to support their education expenses.",
           "email": "wit-scholarship@palantir.com",
-          "link": "Palantir Technologies - Women in Technology Scholarship (Global) (lever.co)",
+          "link": "https://www.palantir.com/careers/students/scholarship/wit-global/",
           "winner_announcement": "June 2024"
        },
        {
           "title": "Sydney Scholars India Scholarship Program",
           "status": "open now",
-          "deadline": "1 April 2024",
+          "deadline": "2 June 2024",
           "eligibility": "You must be classified as an international student as defined in the Higher Education Support Act 2003. This excludes Australian citizens and Australian permanent residents. You must hold Indian citizenship and be a current resident of India. You must have applied for but not yet commenced an undergraduate or postgraduate coursework degree at the University of Sydney at the time of application for the award. Note: You are not eligible if you are a permanent resident of Australia, or if you have previously held a University of Sydney India Scholarship.",
           "benefits": "Three scholarships valued at $40,000 per annum for any undergraduate degree of up to four years. Ten first-year scholarships valued at $20,000 each for undergraduate and postgraduate students. Fifteen first-year scholarships valued at $10,000 each for undergraduate and postgraduate students.",
           "contact": "+61 2 8627 1444",
@@ -188,19 +45,20 @@
        {
           "title": "Education Future International Scholarship",
           "status": "open now",
-          "deadline": "open for applications, based on rolling deadlines",
+          "deadline": " rolling deadlines",
           "eligibility": "Applicants must be Indian nationals with a valid Indian passport. Applicants should have obtained a minimum score of 60% in both the 10th and 12th standard examinations. The scholarship is specifically for Indian students intending to pursue undergraduate (UG) or postgraduate (PG) courses overseas at recognized universities or colleges outside India. This scholarship cannot be availed for studying within India. Applicants must demonstrate a lack of means to self-fund their education abroad. They should plan to fund at least 50% of their education through an education loan.",
           "benefits": "The value of each scholarship awarded through the program ranges between 2 lacs to 10 lacs Indian rupees. The number of scholarships awarded varies each year and is dependent on the quality of applications received by the scholarship program.",
           "email": "info@education-future.org",
+          "contact": " ",
           "link": "https://application.education-future.org/fall-application.php"
        },
        {
           "title": "Project Victory Families Of Veterans Scholarship Program",
-          "application_opens": "1-Feb-2024",
+          "deadline": "1-Feb-2024",
           "status": "open now",
           "scholarship_overview": "The Project Victory Families of Veterans Scholarship is designed to support the educational goals of Veterans’ families in the tech sector.",
           "eligibility": "Students pursuing a Bachelor’s degree from an accredited college or university. Applicants must be full-time students in their Junior or Senior year of study. The scholarship is specifically for students majoring in Computer Science or Information Systems. Applicants must be attending a school in the United States during the academic year 2024-2025. Applicants must be pursuing a degree with a GPA of 3.0 or higher.",
-          "application_link": "https://aim.applyists.net/Account/LogOn?ReturnUrl=%2fProjectVictory",
+          "link": "https://aim.applyists.net/Account/LogOn?ReturnUrl=%2fProjectVictory",
           "email": "partnerhelp@nutanix.com",
           "contact": "8009191580"
        },
@@ -217,11 +75,11 @@
        {
           "title": "British Council Scholarships for women in STEM",
           "status": "open now",
-          "deadline": "varies with institution",
+          "deadline": "Per institution",
           "eligibility": "Identify as a woman. Hold citizenship and permanent residency in an eligible country. Meet entry requirements for a UK Higher Education Institution. Have completed an undergraduate degree or equivalent. Demonstrate financial need. Not receiving other funding for UK studies. Preferably limited international exposure. Not studied or lived in the UK previously. Meet English language requirements. Show motivation and ability for chosen postgraduate course. Be active in the field or have a strong interest in STEM. Commit to contributing to home country's development post-graduation. Agree to stay in touch with British Council and promote the program. Plan to engage women and girls in STEM from home country. Consent to sharing personal data with British Council. Commit to returning to home country for at least two years after the scholarship.",
           "email": "WomenInStem.Scholarships@britishcouncil.org",
           "link": "https://www.britishcouncil.in/study-uk/scholarships/womeninstem-scholarships",
-          "contact_for_enquiry": "https://www.britishcouncil.in/contact-us/message"
+          "contact": "https://www.britishcouncil.in/contact-us/message"
        },
        {
         "title": "AWS AI & ML Scholarship Program",
@@ -231,8 +89,10 @@
         "benefits": "",
         "email": "",
         "link": "https://student.deepracer.com/signIn?redirectUrl=%2Fhome",
-        "contact_link": "https://aws.amazon.com/contact-us/?nc2=h_header",
+        "contact": "https://aws.amazon.com/contact-us/?nc2=h_header",
         "winner_announcement": "June 19, 2024"
-     }
+     } 
+    
+    
     ]
 }

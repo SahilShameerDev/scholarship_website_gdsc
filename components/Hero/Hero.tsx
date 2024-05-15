@@ -1,19 +1,13 @@
 "use client";
-
-// Import React and other necessary hooks
 import React, { useState, useEffect } from "react";
-// Import your CSS module
 import style from "./Hero.module.css";
 
-// Define the type for your component's state
 interface MousePosition {
   x: number;
   y: number;
 }
 
-// Define your component as a functional component with no props
 const Hero: React.FC = () => {
-  // Initialize your state with TypeScript types
   const [mousePosition, setMousePosition] = useState<MousePosition>({
     x: 0,
     y: 0,
@@ -24,10 +18,16 @@ const Hero: React.FC = () => {
       setMousePosition({ x: e.clientX, y: e.clientY });
     };
 
-    document.addEventListener("mousemove", handleMouseMove);
+    // Check if window is defined before adding the event listener
+    if (typeof window !== "undefined") {
+      window.addEventListener("mousemove", handleMouseMove);
+    }
 
     return () => {
-      document.removeEventListener("mousemove", handleMouseMove);
+      // Check if window is defined before removing the event listener
+      if (typeof window !== "undefined") {
+        window.removeEventListener("mousemove", handleMouseMove);
+      }
     };
   }, []);
 
@@ -53,8 +53,14 @@ const Hero: React.FC = () => {
           className={style.music}
           style={{
             transform: `translate(${
-              (mousePosition.x / window.innerWidth - 0.5) * 0
-            }px, ${(mousePosition.y / window.innerHeight - 0.5) * -3}px)`,
+              typeof window !== "undefined"
+                ? (mousePosition.x / window.innerWidth - 0.5) * 0
+                : 0
+            }px, ${
+              typeof window !== "undefined"
+                ? (mousePosition.y / window.innerHeight - 0.5) * -3
+                : 0
+            }px)`,
           }}
         >
           <img src="music.png" alt="" />
@@ -65,8 +71,14 @@ const Hero: React.FC = () => {
             alt=""
             style={{
               transform: `translate(${
-                (mousePosition.x / window.innerWidth - 0.5) * 2
-              }px, ${(mousePosition.y / window.innerHeight - 0.5) * 5}px)`,
+                typeof window !== "undefined"
+                  ? (mousePosition.x / window.innerWidth - 0.5) * 2
+                  : 0
+              }px, ${
+                typeof window !== "undefined"
+                  ? (mousePosition.y / window.innerHeight - 0.5) * 5
+                  : 0
+              }px)`,
             }}
           />
         </div>
@@ -74,8 +86,14 @@ const Hero: React.FC = () => {
           className={style.openBook}
           style={{
             transform: `translate(${
-              (mousePosition.x / window.innerWidth - 0.5) * 3
-            }px, ${(mousePosition.y / window.innerHeight - 0.5) * -10}px)`,
+              typeof window !== "undefined"
+                ? (mousePosition.x / window.innerWidth - 0.5) * 3
+                : 0
+            }px, ${
+              typeof window !== "undefined"
+                ? (mousePosition.y / window.innerHeight - 0.5) * -10
+                : 0
+            }px)`,
           }}
         >
           <img src="openbook.png" alt="" />
@@ -84,8 +102,14 @@ const Hero: React.FC = () => {
           className={style.bulb}
           style={{
             transform: `translate(${
-              (mousePosition.x / window.innerWidth - 0.5) * 4
-            }px, ${(mousePosition.y / window.innerHeight - 0.5) * 2}px)`,
+              typeof window !== "undefined"
+                ? (mousePosition.x / window.innerWidth - 0.5) * 4
+                : 0
+            }px, ${
+              typeof window !== "undefined"
+                ? (mousePosition.y / window.innerHeight - 0.5) * 2
+                : 0
+            }px)`,
           }}
         >
           <img src="bulb.png" alt="" />

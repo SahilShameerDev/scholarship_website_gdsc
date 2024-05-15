@@ -23,3 +23,18 @@
     align-items: center;
 
 }
+
+
+/* Media queries for further adjustments */
+@media (max-width: 768px) {
+  .title {
+     font-size: 1.5rem; /* Smaller font size for smaller screens */
+     left: 40%;
+  }
+ }
+ 
+ @media (max-width: 480px) {
+  .title {
+     font-size: 1.2rem; /* Even smaller font size for very small screens */
+  }
+ }

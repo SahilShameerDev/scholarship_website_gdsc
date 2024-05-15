@@ -28,23 +28,26 @@ const ScholarSections: React.FC<ScholarSectionsProps> = ({ scholarships, title }
   };
 
   const cardWidth = 261;
-  const totalWidth = (scholarships.length * 2) * cardWidth; // Adjusted to include the duplicated set of cards
+  const totalWidth = (scholarships.length ) * cardWidth; // Adjusted to include the duplicated set of cards
 
   // Duplicate the entire set of cards
-  const scholarshipsWithDuplicate = [...scholarships, ...scholarships];
+  const scholarshipsWithDuplicate = [...scholarships];
 
   // Calculate the scroll position based on the current translation
   const getScrollPosition = () => {
-    const container = document.querySelector(`.${styles.cards}`);
-    if (container) {
-      const transform = window.getComputedStyle(container, null).getPropertyValue("transform");
-      const matrix = new WebKitCSSMatrix(transform);
-      const x = matrix.m41;
-      return x;
+    // Check if document and window are defined before using them
+    if (typeof document!== "undefined" && typeof window!== "undefined") {
+      const container = document.querySelector(`.${styles.cards}`);
+      if (container) {
+        const transform = window.getComputedStyle(container, null).getPropertyValue("transform");
+        const matrix = new WebKitCSSMatrix(transform);
+        const x = matrix.m41;
+        return x;
+      }
     }
     return 0;
   };
-
+  
   // Adjust the drag constraints based on the scroll position
   const adjustedConstraints = {
     right: 0,

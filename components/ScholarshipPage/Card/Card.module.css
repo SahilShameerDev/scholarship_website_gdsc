@@ -104,3 +104,14 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+
+@media (max-width: 768px) {
+    .panel, .popUp {
+        width: 95%; /* Full width on smaller screens */
+        left: 0;
+    }
+
+    .button {
+        width: 100%; /* Full width on smaller screens */
+    }
+}

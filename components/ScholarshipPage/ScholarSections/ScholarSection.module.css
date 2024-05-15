@@ -45,3 +45,30 @@
 }
 
 
+
+@media (max-width: 768px) {
+  .title {
+     margin-left: 0px;
+  }
+  .cards {
+     flex-wrap: left; /* Allow cards to wrap on small screens */
+  }
+ }
+ 
+ @media (max-width: 480px) {
+  .title {
+     font-size: 24px;
+     line-height: 30px;
+  }
+  .button {
+     top: -10px;
+     left: 30rem;
+  }
+ }
+ 
+ @media (max-width: 320px) {
+  .button {
+     top: -10px;
+     left: 10rem;
+  }
+ }
