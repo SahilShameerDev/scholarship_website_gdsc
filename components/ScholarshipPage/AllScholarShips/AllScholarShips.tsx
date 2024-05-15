@@ -4,15 +4,15 @@ import Card from '../Card/Card'
 
 
 interface Scholarship {
-  title: string;
-  deadline: string;
+  title?: string;
+  deadline?: string;
   eligibility: string;
-  benefits: string;
-  documents: string;
-  contact_no: string;
-  email: string;
-  link: string;
-  status: string;
+  benefits?: string;
+  documents?: string;
+  contact_no?: string;
+  email?: string;
+  link?: string;
+  status?: string;
  }
  
  interface AllScholarShipsProps {

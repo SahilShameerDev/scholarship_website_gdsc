@@ -7,15 +7,15 @@ import Modal from "react-modal";
 import PopUpModal from "../PopUpModal/PopUpModal";
 
 interface Scholarship {
-  title: string;
-  deadline: string;
+  title?: string;
+  deadline?: string;
   eligibility: string;
-  benefits: string;
-  documents: string;
-  contact_no: string;
-  email: string;
-  link: string;
-  status: string;
+  benefits?: string;
+  documents?: string;
+  contact_no?: string;
+  email?: string;
+  link?: string;
+  status?: string;
 }
 
 interface CardsProps {
@@ -89,7 +89,7 @@ const Cards: React.FC<CardsProps> = ({ scholarship }) => {
           {truncateText(scholarship.eligibility, 7)}
         </p>
         <h2 className={styles.awardTitle}>Award</h2>
-        <p className={styles.award}>{truncateText(scholarship.benefits, 10)}</p>
+        <p className={styles.award}>{truncateText(scholarship.benefits ?? "", 10)}</p>
         <button onClick={openModal} className={styles.button}>
           {" "}
           View Scholarship
