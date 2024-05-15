@@ -10,8 +10,11 @@ import data from '../scholarship.json';
 import Cards from '@/components/ScholarshipPage/Card/Card';
 import Fuse from 'fuse.js';
 
+type Params = {
+  title: string;
+};
 
-const page = ({params}: any) => {
+const page = ({params}: { params: Params }) => {  
   
   console.log("Searched: ",params.title);
   const fuse = new Fuse(data.scholarships, {

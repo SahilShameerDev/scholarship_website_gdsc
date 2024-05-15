@@ -21,7 +21,7 @@ const page = () => {
         <Header/>
         <Home/>
         <ScholarSections scholarships={openNowScholarships} title="Open Now"/>
-        <ScholarSections scholarships={upcomingScholarships} title="Upcoming"/>
+
         <AllScholarShips scholarships={data.scholarships}/>
     </div>
   )
