@@ -11,7 +11,7 @@ import Cards from '@/components/ScholarshipPage/Card/Card';
 import Fuse from 'fuse.js';
 
 
-const page = ({params}) => {
+const page = ({params}: any) => {
   
   console.log("Searched: ",params.title);
   const fuse = new Fuse(data.scholarships, {
