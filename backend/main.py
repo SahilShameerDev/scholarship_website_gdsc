@@ -17,13 +17,13 @@ def save_scholarships(data):
 def get_scholarships():
     return jsonify(load_scholarships())
 
-@app.route("/scholarships", methods=["PUT"])
-def update_scholarships():
-    updated_scholarships = request.json
+@app.route("/scholarships", methods=["POST"])
+def add_scholarship():
+    new_scholarship = request.json
     data = load_scholarships()
-    data["scholarships"] = updated_scholarships["scholarships"]
+    data["scholarships"].append(new_scholarship)
     save_scholarships(data)
-    return jsonify(data)
+    return jsonify(data), 201
 
 if __name__ == "__main__":
     app.run(debug=True)
