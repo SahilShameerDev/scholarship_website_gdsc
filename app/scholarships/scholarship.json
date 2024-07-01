@@ -1,98 +1,106 @@
 {
     "scholarships": [
         {
-          "title": "Nutanix Women in Technology Scholarship 2024-2025",
-          "application_opens": "1-Feb-2024",
-          "deadline": "31-May-2024",
-          "eligibility": "Applicants must be full-time undergraduate or graduate women candidates during the 2024-2025 academic year at an accredited institution in India. Candidates must be pursuing a degree in computer science, computer engineering, electrical engineering, or software engineering to be eligible for this scholarship. Eligible applicants must be residents or citizens of India. Applicants must maintain a minimum GPA of 3.0 or its equivalent. Official transcripts must be submitted as part of the application process. Candidates are required to demonstrate strong leadership abilities and effective communication skills. Applicants should have a proven track record of involvement in co-curricular activities and community service.",
-          "benefits": "Up to four scholarships, each valued at up to $2,000, will be awarded in India. Recipients can apply these funds towards tuition and fees.",
-          "contact": "8009191580",
-          "email": "partnerhelp@nutanix.com",
-          "link": "https://aim.applyists.net/Account/LogOn?ReturnUrl=%2fNutanix",
-          "status": "open now"
-       },
-       {
-          "title": "Palantir Future Global Scholarship",
-          "status": "open now",
-          "deadline": "13-May-2024",
-          "eligibility": "The Future Scholarship (Global) is open to Indian students who are undergraduate or Master's students actively enrolled in an accredited university outside of North America during the academic years that the scholarship is awarded. Eligible students must be majoring in or plan to major in the fields of Computer Science, Software Engineering, or a closely related technical field. Have not been a Palantir scholarship recipient in the past.",
-          "benefits": "Eligible recipients will have the opportunity to interview for internship and full-time roles with Palantir. All recipients will receive grants of $7,000 to support their education expenses.",
-          "email": "future-scholarship@palantir.com",
-          "link": "https://www.palantir.com/careers/students/scholarship/future-global/",
-          "winner_announcement": "June 2024"
-       },
-       {
-          "title": "Palantir Women in Technology Scholarship(Global)",
-          "status": "open now",
-          "deadline": "13-May-2024",
-          "eligibility": "The Women In Technology Scholarship (Global) is open to Indian students who are undergraduate or Master's students actively enrolled in an accredited university outside of North America during the academic years that the scholarship is awarded. Eligible students must be majoring in or plan to major in the fields of Computer Science, Software Engineering, or a closely related technical field. Identify as women. Have not been a Palantir scholarship recipient in the past.",
-          "benefits": "Scholarship recipients will be invited to participate in professional development workshops tailored to prepare them for successful careers in the technology industry. Eligible recipients will have the opportunity to interview for internship and full-time roles. All recipients will receive grants of $7,000 to support their education expenses.",
-          "email": "wit-scholarship@palantir.com",
-          "link": "https://www.palantir.com/careers/students/scholarship/wit-global/",
-          "winner_announcement": "June 2024"
-       },
-       {
-          "title": "Sydney Scholars India Scholarship Program",
-          "status": "open now",
-          "deadline": "2 June 2024",
-          "eligibility": "You must be classified as an international student as defined in the Higher Education Support Act 2003. This excludes Australian citizens and Australian permanent residents. You must hold Indian citizenship and be a current resident of India. You must have applied for but not yet commenced an undergraduate or postgraduate coursework degree at the University of Sydney at the time of application for the award. Note: You are not eligible if you are a permanent resident of Australia, or if you have previously held a University of Sydney India Scholarship.",
-          "benefits": "Three scholarships valued at $40,000 per annum for any undergraduate degree of up to four years. Ten first-year scholarships valued at $20,000 each for undergraduate and postgraduate students. Fifteen first-year scholarships valued at $10,000 each for undergraduate and postgraduate students.",
-          "contact": "+61 2 8627 1444",
-          "email": "",
-          "link": "https://sydneyuniversity.formstack.com/forms/ssisp",
-          "enquiry_link": "https://www.sydney.edu.au/contact-us.html"
-       },
-       {
-          "title": "Education Future International Scholarship",
-          "status": "open now",
-          "deadline": " rolling deadlines",
-          "eligibility": "Applicants must be Indian nationals with a valid Indian passport. Applicants should have obtained a minimum score of 60% in both the 10th and 12th standard examinations. The scholarship is specifically for Indian students intending to pursue undergraduate (UG) or postgraduate (PG) courses overseas at recognized universities or colleges outside India. This scholarship cannot be availed for studying within India. Applicants must demonstrate a lack of means to self-fund their education abroad. They should plan to fund at least 50% of their education through an education loan.",
-          "benefits": "The value of each scholarship awarded through the program ranges between 2 lacs to 10 lacs Indian rupees. The number of scholarships awarded varies each year and is dependent on the quality of applications received by the scholarship program.",
-          "email": "info@education-future.org",
-          "contact": " ",
-          "link": "https://application.education-future.org/fall-application.php"
-       },
-       {
-          "title": "Project Victory Families Of Veterans Scholarship Program",
-          "deadline": "1-Feb-2024",
-          "status": "open now",
-          "scholarship_overview": "The Project Victory Families of Veterans Scholarship is designed to support the educational goals of Veterans’ families in the tech sector.",
-          "eligibility": "Students pursuing a Bachelor’s degree from an accredited college or university. Applicants must be full-time students in their Junior or Senior year of study. The scholarship is specifically for students majoring in Computer Science or Information Systems. Applicants must be attending a school in the United States during the academic year 2024-2025. Applicants must be pursuing a degree with a GPA of 3.0 or higher.",
-          "link": "https://aim.applyists.net/Account/LogOn?ReturnUrl=%2fProjectVictory",
-          "email": "partnerhelp@nutanix.com",
-          "contact": "8009191580"
-       },
-       {
-          "title": "Generation Google Scholarship",
-          "status": "open now",
-          "deadline": "23-April-2024",
-          "eligibility": "Candidates must be full-time graduate students for 2024-25. Candidate must be in his/her second year of Bachelor’s degree. Candidates must be enrolled in any university in Asia Pacific country. Candidates must be a student of computer science, engineering, or any other relevant technical field. Candidates must have an excellent academic record. Candidates must have a passion for uplifting the lives of disadvantaged groups.",
-          "benefits": "Candidates will be awarded a stipend of USD 2,500 for the whole year. Candidates will be able to enrich their professional skills. It provides students an opportunity to work under professional experts.",
-          "documents": "A PDF copy of Resume/CV. A PDF copy of previous and current Transcripts. A PDF copy of two short answers.",
-          "email": "generationgoogle-apac@iie.org",
-          "link": "https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac"
-       },
-       {
-          "title": "British Council Scholarships for women in STEM",
-          "status": "open now",
-          "deadline": "Per institution",
-          "eligibility": "Identify as a woman. Hold citizenship and permanent residency in an eligible country. Meet entry requirements for a UK Higher Education Institution. Have completed an undergraduate degree or equivalent. Demonstrate financial need. Not receiving other funding for UK studies. Preferably limited international exposure. Not studied or lived in the UK previously. Meet English language requirements. Show motivation and ability for chosen postgraduate course. Be active in the field or have a strong interest in STEM. Commit to contributing to home country's development post-graduation. Agree to stay in touch with British Council and promote the program. Plan to engage women and girls in STEM from home country. Consent to sharing personal data with British Council. Commit to returning to home country for at least two years after the scholarship.",
-          "email": "WomenInStem.Scholarships@britishcouncil.org",
-          "link": "https://www.britishcouncil.in/study-uk/scholarships/womeninstem-scholarships",
-          "contact": "https://www.britishcouncil.in/contact-us/message"
-       },
-       {
-        "title": "AWS AI & ML Scholarship Program",
-        "status": "open now",
-        "deadline": "31-May-2024",
-        "eligibility": "Age Requirement: Applicants must be high school or college students over the age of 16. Interest in AI and ML: Applicants should demonstrate a strong interest in pursuing a career in artificial intelligence and machine learning. Underrepresented and Underserved: The program targets students who are underrepresented and underserved in the tech industry.",
-        "benefits": "",
-        "email": "",
-        "link": "https://student.deepracer.com/signIn?redirectUrl=%2Fhome",
-        "contact": "https://aws.amazon.com/contact-us/?nc2=h_header",
-        "winner_announcement": "June 19, 2024"
-     } 
-    
-    
+            "title": "Nutanix Women in Technology Scholarship 2024-2025",
+            "application_opens": "1-Feb-2024",
+            "deadline": "31-May-2024",
+            "eligibility": "Applicants must be full-time undergraduate or graduate women candidates during the 2024-2025 academic year at an accredited institution in India. Candidates must be pursuing a degree in computer science, computer engineering, electrical engineering, or software engineering to be eligible for this scholarship. Eligible applicants must be residents or citizens of India. Applicants must maintain a minimum GPA of 3.0 or its equivalent. Official transcripts must be submitted as part of the application process. Candidates are required to demonstrate strong leadership abilities and effective communication skills. Applicants should have a proven track record of involvement in co-curricular activities and community service.",
+            "benefits": "Up to four scholarships, each valued at up to $2,000, will be awarded in India. Recipients can apply these funds towards tuition and fees.",
+            "contact": "8009191580",
+            "email": "partnerhelp@nutanix.com",
+            "link": "https://aim.applyists.net/Account/LogOn?ReturnUrl=%2fNutanix",
+            "status": "open now"
+        },
+        {
+            "title": "Palantir Future Global Scholarship",
+            "status": "open now",
+            "deadline": "13-May-2024",
+            "eligibility": "The Future Scholarship (Global) is open to Indian students who are undergraduate or Master's students actively enrolled in an accredited university outside of North America during the academic years that the scholarship is awarded. Eligible students must be majoring in or plan to major in the fields of Computer Science, Software Engineering, or a closely related technical field. Have not been a Palantir scholarship recipient in the past.",
+            "benefits": "Eligible recipients will have the opportunity to interview for internship and full-time roles with Palantir. All recipients will receive grants of $7,000 to support their education expenses.",
+            "email": "future-scholarship@palantir.com",
+            "link": "https://www.palantir.com/careers/students/scholarship/future-global/",
+            "winner_announcement": "June 2024"
+        },
+        {
+            "title": "Palantir Women in Technology Scholarship(Global)",
+            "status": "open now",
+            "deadline": "13-May-2024",
+            "eligibility": "The Women In Technology Scholarship (Global) is open to Indian students who are undergraduate or Master's students actively enrolled in an accredited university outside of North America during the academic years that the scholarship is awarded. Eligible students must be majoring in or plan to major in the fields of Computer Science, Software Engineering, or a closely related technical field. Identify as women. Have not been a Palantir scholarship recipient in the past.",
+            "benefits": "Scholarship recipients will be invited to participate in professional development workshops tailored to prepare them for successful careers in the technology industry. Eligible recipients will have the opportunity to interview for internship and full-time roles. All recipients will receive grants of $7,000 to support their education expenses.",
+            "email": "wit-scholarship@palantir.com",
+            "link": "https://www.palantir.com/careers/students/scholarship/wit-global/",
+            "winner_announcement": "June 2024"
+        },
+        {
+            "title": "Sydney Scholars India Scholarship Program",
+            "status": "open now",
+            "deadline": "2 June 2024",
+            "eligibility": "You must be classified as an international student as defined in the Higher Education Support Act 2003. This excludes Australian citizens and Australian permanent residents. You must hold Indian citizenship and be a current resident of India. You must have applied for but not yet commenced an undergraduate or postgraduate coursework degree at the University of Sydney at the time of application for the award. Note: You are not eligible if you are a permanent resident of Australia, or if you have previously held a University of Sydney India Scholarship.",
+            "benefits": "Three scholarships valued at $40,000 per annum for any undergraduate degree of up to four years. Ten first-year scholarships valued at $20,000 each for undergraduate and postgraduate students. Fifteen first-year scholarships valued at $10,000 each for undergraduate and postgraduate students.",
+            "contact": "+61 2 8627 1444",
+            "email": "",
+            "link": "https://sydneyuniversity.formstack.com/forms/ssisp",
+            "enquiry_link": "https://www.sydney.edu.au/contact-us.html"
+        },
+        {
+            "title": "Education Future International Scholarship",
+            "status": "open now",
+            "deadline": " rolling deadlines",
+            "eligibility": "Applicants must be Indian nationals with a valid Indian passport. Applicants should have obtained a minimum score of 60% in both the 10th and 12th standard examinations. The scholarship is specifically for Indian students intending to pursue undergraduate (UG) or postgraduate (PG) courses overseas at recognized universities or colleges outside India. This scholarship cannot be availed for studying within India. Applicants must demonstrate a lack of means to self-fund their education abroad. They should plan to fund at least 50% of their education through an education loan.",
+            "benefits": "The value of each scholarship awarded through the program ranges between 2 lacs to 10 lacs Indian rupees. The number of scholarships awarded varies each year and is dependent on the quality of applications received by the scholarship program.",
+            "email": "info@education-future.org",
+            "contact": " ",
+            "link": "https://application.education-future.org/fall-application.php"
+        },
+        {
+            "title": "Project Victory Families Of Veterans Scholarship Program",
+            "deadline": "1-Feb-2024",
+            "status": "open now",
+            "scholarship_overview": "The Project Victory Families of Veterans Scholarship is designed to support the educational goals of Veterans\u00e2\u20ac\u2122 families in the tech sector.",
+            "eligibility": "Students pursuing a Bachelor\u00e2\u20ac\u2122s degree from an accredited college or university. Applicants must be full-time students in their Junior or Senior year of study. The scholarship is specifically for students majoring in Computer Science or Information Systems. Applicants must be attending a school in the United States during the academic year 2024-2025. Applicants must be pursuing a degree with a GPA of 3.0 or higher.",
+            "link": "https://aim.applyists.net/Account/LogOn?ReturnUrl=%2fProjectVictory",
+            "email": "partnerhelp@nutanix.com",
+            "contact": "8009191580"
+        },
+        {
+            "title": "Generation Google Scholarship",
+            "status": "open now",
+            "deadline": "23-April-2024",
+            "eligibility": "Candidates must be full-time graduate students for 2024-25. Candidate must be in his/her second year of Bachelor\u00e2\u20ac\u2122s degree. Candidates must be enrolled in any university in Asia Pacific country. Candidates must be a student of computer science, engineering, or any other relevant technical field. Candidates must have an excellent academic record. Candidates must have a passion for uplifting the lives of disadvantaged groups.",
+            "benefits": "Candidates will be awarded a stipend of USD 2,500 for the whole year. Candidates will be able to enrich their professional skills. It provides students an opportunity to work under professional experts.",
+            "documents": "A PDF copy of Resume/CV. A PDF copy of previous and current Transcripts. A PDF copy of two short answers.",
+            "email": "generationgoogle-apac@iie.org",
+            "link": "https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac"
+        },
+        {
+            "title": "British Council Scholarships for women in STEM",
+            "status": "open now",
+            "deadline": "Per institution",
+            "eligibility": "Identify as a woman. Hold citizenship and permanent residency in an eligible country. Meet entry requirements for a UK Higher Education Institution. Have completed an undergraduate degree or equivalent. Demonstrate financial need. Not receiving other funding for UK studies. Preferably limited international exposure. Not studied or lived in the UK previously. Meet English language requirements. Show motivation and ability for chosen postgraduate course. Be active in the field or have a strong interest in STEM. Commit to contributing to home country's development post-graduation. Agree to stay in touch with British Council and promote the program. Plan to engage women and girls in STEM from home country. Consent to sharing personal data with British Council. Commit to returning to home country for at least two years after the scholarship.",
+            "email": "WomenInStem.Scholarships@britishcouncil.org",
+            "link": "https://www.britishcouncil.in/study-uk/scholarships/womeninstem-scholarships",
+            "contact": "https://www.britishcouncil.in/contact-us/message"
+        },
+        {
+            "title": "AWS AI & ML Scholarship Program",
+            "status": "open now",
+            "deadline": "31-May-2024",
+            "eligibility": "Age Requirement: Applicants must be high school or college students over the age of 16. Interest in AI and ML: Applicants should demonstrate a strong interest in pursuing a career in artificial intelligence and machine learning. Underrepresented and Underserved: The program targets students who are underrepresented and underserved in the tech industry.",
+            "benefits": "",
+            "email": "",
+            "link": "https://student.deepracer.com/signIn?redirectUrl=%2Fhome",
+            "contact": "https://aws.amazon.com/contact-us/?nc2=h_header",
+            "winner_announcement": "June 19, 2024"
+        },
+        {
+            "title": "New Scholarship Title",
+            "status": "open now",
+            "deadline": "31-Dec-2024",
+            "eligibility": "Eligibility criteria...",
+            "benefits": "Benefits description...",
+            "email": "contact@example.com",
+            "link": "https://example.com",
+            "contact": "1234567890"
+        }
     ]
 }
